@@ -1,7 +1,7 @@
 # REMIX-FILES
 all of Remix's LEAKED files (ch2 remix project)
 
-Remix-main.zip is full source Remix gameserver (will compike and upload here soon)
+Remix-main.zip is full source Remix gameserver (will compile and upload here soon)
 
 Remix-Redirect.zip is the redirect/auth for Remix (will compile and upload here soon)
 
