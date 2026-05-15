@@ -2,11 +2,11 @@
 all of Remix's LEAKED files (ch2 remix project)
 (tutorial soon)
 
-Remix-main.zip is full source Remix gameserver (will build and upload soon)
+Remix-main.zip is full source Remix gameserver (will compike and upload here soon)
 
-Remix-Redirect.zip is the redirect/auth for Remix (will build and upload soon)
+Remix-Redirect.zip is the redirect/auth for Remix (will compile and upload here soon)
 
-Remix-Matchmaker.zip is the matchmaker for Remix (and the client DLL for remix) (don't know what to do with it so do anything with it ig)
+Remix-Matchmaker.zip is the matchmaker for Remix (and the client DLL for remix) (will compile and uplosd here soon
 
 Remix-Backend folder has the link for the Remix-Backend.zip which is the backend for Remix (currently don't know what to do with it, you can do anything with it tbh)
 
