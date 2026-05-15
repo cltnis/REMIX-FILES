@@ -1,6 +1,5 @@
 # REMIX-FILES
 all of Remix's LEAKED files (ch2 remix project)
-(tutorial soon)
 
 Remix-main.zip is full source Remix gameserver (will compike and upload here soon)
 
