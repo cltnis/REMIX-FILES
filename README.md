@@ -8,7 +8,7 @@ Remix-Redirect.zip is the redirect/auth for Remix (will build and upload soon)
 
 Remix-Matchmaker.zip is the matchmaker for Remix (don't know what to do with it so do anything with it ig)
 
-Remix-Backend folder has the link for the Remix-Backend.zip which is the backend for Remix (currently don't know what ri do with it, you can do anything with it tbh)
+Remix-Backend folder has the link for the Remix-Backend.zip which is the backend for Remix (currently don't know what to do with it, you can do anything with it tbh)
 
 Remix-Launcher.zip is the launcher for Remix (don't know what to do with it so do anything with it ig)
 
